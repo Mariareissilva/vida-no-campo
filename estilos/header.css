@@ -1,5 +1,5 @@
 .cabecalho{
-    background-color: var(--cor-de-fundo-cabecalho);
+    background-image: url("../img/campo\ 1.png")
 }
 
 .cabecalho--menu{
@@ -8,5 +8,5 @@
     display: inline-block;
     background-image: url("../img/Vector.png");
     background-repeat: no-repeat;
-    
+
 }
