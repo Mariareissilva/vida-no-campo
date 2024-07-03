@@ -1,3 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Jomhuria&display=swap');
+
+
 .secao1 p{
-    color: var(--cor-da-fonte)
+
+    color: var(--cor-da-fonte);
+    font-family: "Jomhuria", serif;
 }
