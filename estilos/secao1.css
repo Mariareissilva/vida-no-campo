@@ -4,6 +4,7 @@
 .secao1 p{
 
     color: var(--cor-da-fonte);
+    margin: 16px;
     font-size: 24px;
     font-family: "Jomhuria", serif;
 }
