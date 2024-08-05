@@ -19,5 +19,11 @@ text-align: center;
 
 .secao3 div{
     display: flex;
+    justify-content: space-around;
+
+}
+
+.img-lista{
+
 
 }
