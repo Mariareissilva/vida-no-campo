@@ -17,5 +17,8 @@
     .conatiner__titulo{
         display:block;
     }
+    .cabecalho{
+        background-size: cover;
+    }
     
 }
