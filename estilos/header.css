@@ -22,5 +22,12 @@
        width: 120%;
         height: 500px;
     }
-    
+    .cabecalho h1{
+        font-size: 60px;
+        color: white;
+
+    }
+    .cabecalho--menu{ 
+        display: none;
+    }
 }
